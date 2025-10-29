@@ -24,6 +24,7 @@ open readme file on code editor
     it will show all the current changes made locally
   
   create a new file in the folder 
+  
     ex helloGyan.html
       (
       <h1>Hello Gyan </h1>
@@ -49,10 +50,25 @@ open readme file on code editor
 
       Files in red = modified but not staged 
     
+  cheacking the Branch and creating a new base branch
+  
+   # Step 1: Check your current branch
+    git branch
+    # → * main
+    
+    # Step 2: Create and switch to a new branch
+    git checkout -b feature-login
+    # → Switched to a new branch 'feature-login'
+    
+    # Step 3: Verify
+    git branch
+    # → main
+    # → * feature-login   ← current branch
+    
+    # Step 4: Work on files, commit changes
+    git add .
+    git commit -m "Added login page UI"
     
     
-    
-    
-    
-    
-    
+        
+        
