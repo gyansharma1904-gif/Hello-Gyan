@@ -49,7 +49,7 @@ open readme file on code editor
       Files in green = staged 
 
       Files in red = modified but not staged 
-    
+       
   cheacking the Branch and creating a new base branch
   
    # Step 1: Check your current branch
@@ -72,3 +72,51 @@ open readme file on code editor
     
         
         
+  PHASE 9 — Real-World Developer Habits
+  
+  ✅ Write clear commit messages
+  
+  Example: “Fix: login button alignment in navbar”
+  
+  ✅ Use branches for features or fixes
+  ✅ Always pull before you push
+  ✅ Add .gitignore early in projects
+  ✅ Use Pull Requests for collaboration
+  ✅ Learn to read Git logs and diffs
+
+
+🧭 PHASE 10 — Practice Projects for You
+
+Create a repo: portfolio-site
+
+Practice these:
+
+Add a few files → commit
+
+Create a new branch → make changes
+
+Merge branches
+
+Push to GitHub
+
+Create a Pull Request (even if it’s solo)
+
+
+
+
+
+git status
+git add -A
+git checkout -b test00H
+git commit -m "Added login page UI"
+git push -u origin test00H
+
+
+
+gyansharma1904-gif
+
+
+ghp_LcpfFxIgmWd83YJ4tWnKMV2dRVsVt119kY1G
+
+
+
