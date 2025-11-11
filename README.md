@@ -120,3 +120,20 @@ ghp_LcpfFxIgmWd83YJ4tWnKMV2dRVsVt119kY1G
 
 
 
+
+
+........................................................................................................................
+
+
+                for colour sugggestion 
+
+https://coolors.co
+
+
+                for font sugggestion
+
+google fonts
+
+                for gif  sugggestion
+                
+https://giphy.com
