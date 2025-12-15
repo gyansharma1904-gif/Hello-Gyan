@@ -107,11 +107,11 @@ Create a Pull Request (even if it’s solo)
 
 
 
-
+helloGyan
 
 git status
 git add -A
-git checkout -b test00H
+git checkout -b test00H  // makeing new branch 
 git commit -m "Added login page UI"
 git push -u origin test00H
 
