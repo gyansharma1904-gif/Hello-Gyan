@@ -1,13 +1,17 @@
 trial hello file
 here is gyan Sharma 
 trying to learn github 
+\\
 
+\\
 created github account 
-
+\\
 created a new repo
 
 install git on my system 
   pkg install git-
+  pip install git-
+  
 
 downloading repo by running command on terminal 
   >>> git clone (name of git repo OR repo link)
@@ -103,11 +107,11 @@ Create a Pull Request (even if it’s solo)
 
 
 
-
+helloGyan
 
 git status
 git add -A
-git checkout -b test00H
+git checkout -b test00H  // makeing new branch 
 git commit -m "Added login page UI"
 git push -u origin test00H
 
@@ -135,3 +139,15 @@ google fonts
                 for gif  sugggestion
                 
 https://giphy.com
+
+
+
+
+netlify.com  ---------- to make web site live
+\\\
+\\\
+\\\
+\\\
+\\
+\\
+\\
